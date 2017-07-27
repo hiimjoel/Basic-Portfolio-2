@@ -1,0 +1,38 @@
+body {
+	width: 960px;
+}
+
+header {
+	background: #ffffff;
+	border: #cccccc;
+	border-width: 2px;
+}
+
+h2 {
+	color: #4aaaa5;
+}
+
+h3 {
+	color: #4aaaa5;
+}
+
+#main {
+	width: 960px;
+}
+
+#connect {
+	width: 270px;
+}
+
+#Profile {
+	width:200px;
+}
+
+#main,
+#connect {
+	float: left;
+}
+
+footer{
+	background-color: #666666;
+}
